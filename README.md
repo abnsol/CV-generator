@@ -15,4 +15,4 @@ A simple and interactive Resume Builder built with React, allowing users to dyna
 - **Webpack & Babel** – For module bundling and transpilation.
 
 
-[Live Demo](https://your-netlify-app.netlify.app)
+[Live Demo](https://generate-cv-top.netlify.app/)
