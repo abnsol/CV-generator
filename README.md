@@ -12,7 +12,7 @@ A simple and interactive Resume Builder built with React, allowing users to dyna
 - **React** – For building UI components.
 - **React Hooks (`useState`, `useEffect`)** – For managing state and side effects.
 - **CSS (Flexbox & Grid)** – For styling and layout.
-- **Webpack & Babel** – For module bundling and transpilation.
+- **vite** – For module bundling and transpilation.
 
 
 [Live Demo](https://generate-cv-top.netlify.app/)
